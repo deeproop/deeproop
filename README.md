@@ -1,11 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Deep Roop</h1>
+                           alt="Waving hand animated gif" height="45" width="45" />, I'm Deep Roop</h1>
 <h5 align="center">
 A 3rd-year student pursuing Bachelors in Computer science studies, from GEHU Dehradun. I am a passionate full stack developer. 
 </h5>
-<img align="right" alt="Coding" width="400" src="http://www.jobspikr.com/wp-content/uploads/2022/02/19362653-scaled.jpg">
+<img align="right" alt="Coding" width="350" src="http://www.jobspikr.com/wp-content/uploads/2022/02/19362653-scaled.jpg">
 <p>
 <a align= "center" href="https://github.com/deeproop">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=deeproop&theme=radical">
