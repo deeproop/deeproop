@@ -20,6 +20,6 @@ A 3rd-year student pursuing Bachelors in Computer science studies, from GEHU Deh
 <br><br>
 <hr>
 
-<p align="center">
-  <img src="https://github.com/deeproop/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+## Snake eating my contribution graph
+  ![snake gif](https://github.com/deeproop/deeproop/blob/output/github-contribution-grid-snake.gif)
+
