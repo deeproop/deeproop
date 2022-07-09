@@ -15,7 +15,7 @@ A 3rd-year student pursuing Bachelors in Computer science studies, from GEHU Deh
 
 <p align="left"> 
   <a href="https://twitter.com/Deeproop1" target="blank"><img src="https://img.shields.io/twitter/follow/Deeproop1?logo=twitter&style=for-the-badge" alt="Deep Roop's Twitter" /></a> 
-  <a href="https://www.linkedin.com/in/deep-roop-3229911ab/" target="blank"><img src="https://img.shields.io/linkedin/follow/deep-roop-3229911ab/?logo=linkedin&style=for-the-badge" alt="Deep Roop's Linkedin" /></a>
+  <a href="https://linkedin.com/in/deep-roop-3229911ab/" target="blank"><img src="https://img.shields.io/linkedin/follow/deep-roop-3229911ab/?logo=linkedin&style=for-the-badge" alt="Deep Roop's Linkedin" /></a>
 </p>
 
 - 📫 How to reach me **deepsinghroop@gmail.com**
