@@ -3,11 +3,10 @@
 <h5 align="center">
 A 3rd-year student pursuing Bachelors in Computer science studies, from GEHU Dehradun. I am a passionate full stack developer. 
 </h5>
-<img align="right" alt="Coding" width="350" height="500" src="http://www.jobspikr.com/wp-content/uploads/2022/02/19362653-scaled.jpg">
+<img align="right" alt="Coding" width="350" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 <p>
 <a align= "center" href="https://github.com/deeproop">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=deeproop&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=deeproop&count_private=true&theme=radical&show_icons=true" />
 
