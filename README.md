@@ -3,7 +3,7 @@
 <h5 align="center">
 A 3rd-year student pursuing Bachelors in Computer science studies, from GEHU Dehradun. I am a passionate full stack developer. 
 </h5>
-<img align="right" alt="Coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Coding" width="350" margin-top="100" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p>
 <a align= "center" href="https://github.com/deeproop">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=deeproop&theme=radical">
