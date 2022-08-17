@@ -1,6 +1,6 @@
 # Hi there, I'm Deep!👋
 <h4 align="center">
-Open Source Contributor and a 3rd-year student pursuing Bachelors in Computer science studies, from GEHU Dehradun. I am a passionate full stack developer. 
+Open Source Contributor | 3rd-year Computer Science Engineering Undergrad | Passionate Fullstack developer | MERN 
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
