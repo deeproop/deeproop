@@ -1,6 +1,6 @@
 # Hi there, I'm Deep!👋
-<h4 align="center">
-Open Source Contributor | 3rd-year Computer Science Engineering Undergrad | Passionate Fullstack developer | MERN 
+<h4 align="left">
+3rd-year Computer Science Engineering Undergrad | Open Source Contributor | Passionate Fullstack developer | MERN 
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
