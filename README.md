@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=deeproop)
 # Hi there, I'm Deep!👋
 <h4 align="left">
 3rd-year Computer Science Engineering Undergrad | Open Source Contributor | Passionate Fullstack developer | MERN 
