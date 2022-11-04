@@ -5,7 +5,7 @@
 
 ---
 
-#### I'm a Frontend Developer, based in Haridwar, India. Currently, I am in Dehradun pursuing my bachelor's program in Computer Science.
+#### I'm a Frontend Developer, based in Haridwar, India. Currently, I am in Dehradun pursuing my bachelor's degree in Computer Science and Engineering.
 
 - 🌱 Learning more about and studying: **Java, Open Source, CS Algorithms**.
 - 💬 Ping me about: **open source**, **web tech** 🌈 .
