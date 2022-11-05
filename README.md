@@ -30,6 +30,7 @@
 
 ---
 
+<img height="200px" width="47%" src="https://github-readme-stats.vercel.app/api?username=deeproop&count_private=true&theme=radical&show_icons=true" />
 
 <!-- # Hi there, I'm Deep!👋
 <h4 align="left">
