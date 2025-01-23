@@ -5,7 +5,12 @@
 
 ---
 
-#### I'm a Frontend Developer, based in Haridwar, India. Currently, I am in Dehradun pursuing my bachelor's degree in Computer Science and Engineering.
+#### A skilled Frontend Developer, completed my bachelor's degree in computer science and engineering.
+Here are some of my key skills:
+
+    Programming Languages: C++, Java, Python, HTML5, CSS3, JavaScript, SQL
+    Technologies/Frameworks: React, PrimeReact, REST APIs, MySQL, Trello, Git
+    Others: Postman, Tailwind CSS, Primeflex CSS, Bootstrap
 
 - 🌱 Learning more about and studying: **Java, Open Source, CS Algorithms**.
 - 💬 Ping me about: **open source**, **web tech** 🌈 .
